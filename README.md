@@ -21,6 +21,8 @@ This is javascript project given in the **Ineuron's Full Stack JavaScript Develo
 
 <br>
 
+## 📸 Screenshot
+
 ![ScreenShot](screenshot.PNG)
 
 <br>
